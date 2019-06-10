@@ -1,3 +1,4 @@
+<a href="https://github.com/Asyrrith/ExoBloom/blob/master/EB-v1">Get the code here</a><br><br>
 <!--
 
 -->
@@ -420,7 +421,7 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-          WORK LIFE
+          Hustlin'
 
 
 ----------------------------- -->
@@ -428,15 +429,15 @@ place 'hide' before 'carousel slide'
 <div class="row no-gutters" style="margin:-8px;">
 <!-- ----------------------------
 
-             Organization
+             Gang
 
 ----------------------------- --> 
-<div class="col-lg-6 p-2 mb-5"><h2>Organization</h2><hr>
+<div class="col-lg-6 p-2 mb-5"><h2>Gang</h2><hr>
 <ul class="mb-0">
-  <li><b>[Mantle]</b> _</li>
-  <li><b>[Branch]</b> _</li>
+  <li><b>[Gang]</b> _</li>
+  <li><b>[Rank]</b> _</li>
 </ul><br>
-<p><i>Details about Mantle here...</i></p>
+<p><i>Details here...</i></p>
 </div>
 <!-- ----------------------------
 
@@ -455,7 +456,7 @@ place 'hide' before 'carousel slide'
 <!-- ----------------------------
 
 
-      SKILLS & TALENTS
+      Combat
       
      Note : fas = full star, far = empty star
 
@@ -600,14 +601,7 @@ place 'hide' before 'carousel slide'
   class="float-right p-2 hidden-sm-down">
   
   
-  <p><b>Life before joining the DLo</b><br>
-  Text...</p>
-  
-  <p><b>Training to be a Datura Lily member</b><br>
-  Text...</p>
-  
-  <p><b>Life as a Datura Lily member</b><br>
-  Text...</p>
+  <p>The story of ___...</p>
   
 </div>
 </div>
